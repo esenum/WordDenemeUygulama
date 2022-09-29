@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\WordDenemeUygulama\bin\Debug\WordDenemeUygulama.exe.config
+C:\Users\HP\Desktop\WordDenemeUygulama\bin\Debug\WordDenemeUygulama.exe
+C:\Users\HP\Desktop\WordDenemeUygulama\bin\Debug\WordDenemeUygulama.pdb
+C:\Users\HP\Desktop\WordDenemeUygulama\obj\Debug\WordDenemeUygulama.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\WordDenemeUygulama\obj\Debug\WordDenemeUygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\WordDenemeUygulama\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\HP\Desktop\WordDenemeUygulama\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\HP\Desktop\WordDenemeUygulama\obj\Debug\Interop.VBIDE.dll
+C:\Users\HP\Desktop\WordDenemeUygulama\obj\Debug\WordDenemeUygulama.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\WordDenemeUygulama\obj\Debug\WordDenemeUygulama.Form1.resources
+C:\Users\HP\Desktop\WordDenemeUygulama\obj\Debug\WordDenemeUygulama.Properties.Resources.resources
+C:\Users\HP\Desktop\WordDenemeUygulama\obj\Debug\WordDenemeUygulama.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\WordDenemeUygulama\obj\Debug\WordDenemeUygulama.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\WordDenemeUygulama\obj\Debug\WordDenemeUygulama.exe
+C:\Users\HP\Desktop\WordDenemeUygulama\obj\Debug\WordDenemeUygulama.pdb

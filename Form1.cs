@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-using Microsoft.Office.Interop.Word;//<- this is what I am talking about
+using Microsoft.Office.Interop.Word;
 
 namespace WordDenemeUygulama
 {
